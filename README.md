@@ -1,3 +1,10 @@
+# Leaderboard App
+
+![Screenshot 2025-04-06 at 4 10 11 PM](https://github.com/user-attachments/assets/dcf83139-e356-485f-8e6d-a24ea2190f92)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
