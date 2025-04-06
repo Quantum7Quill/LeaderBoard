@@ -1,0 +1,5 @@
+# requirements.txt
+react
+react-dom
+axios
+react-scripts
